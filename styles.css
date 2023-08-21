@@ -1,6 +1,6 @@
 @font-face {
     font-family: "TT Lakes";
-    src: url("/fonts/TTLakes-Medium.woff2");
+    src: url("fonts/TTLakes-Medium.woff2");
 }
 
 html, 
@@ -100,7 +100,7 @@ body {
         flex-grow: 0;
         width: 1em;
         height: .8em;
-        background: url(/img/icon.svg) no-repeat;
+        background: url(img/icon.svg) no-repeat;
     }
 
     #read__more.checkbox  {
